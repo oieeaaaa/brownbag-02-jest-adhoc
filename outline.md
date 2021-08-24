@@ -1,5 +1,7 @@
 ## Outline
 
+---
+
 ### Setup
   1. Jest
 ### Jest Matchers
