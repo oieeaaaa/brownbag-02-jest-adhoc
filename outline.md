@@ -45,7 +45,7 @@
   1. AfterAll
   1. Handling Asnychronous Code
   1. Scoping with describe()
-  1. .only
+  1. .only <!-- specify the file when running the jest command to get more info -->
 ### Mock Functions
   1. Creating a mock
     1. jest.fn()

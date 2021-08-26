@@ -50,6 +50,6 @@ test('checkIfValidPhoneNumber', () => {
   const myPhoneNumber = '+639998536549';
   const isMyPhoneNumberValid = checkIfValidPhoneNumber(myPhoneNumber);
 
-  expect(isMyPhoneNumberValid).not.toBe(expect.anything(Number));
+  expect(isMyPhoneNumberValid).not.toBe(expect.any(Number));
   expect(isMyPhoneNumberValid).toBe(true);
 })
